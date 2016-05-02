@@ -7,7 +7,7 @@
 	* [GitHub](https://github.com/)
 	* [Git Tutorial](https://rogerdudler.github.io/git-guide/index.de.html)
 * [Autohotkey](https://autohotkey.com/)
-* [Kahoot](ttps://kahoot.it/)
+* [Kahoot](https://kahoot.it/)
 * [Keepass Password Manager](http://keepass.info/)
 
 ## Statistik
