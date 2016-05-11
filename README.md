@@ -9,6 +9,8 @@
 * [Autohotkey](https://autohotkey.com/)
 * [Kahoot](https://kahoot.it/)
 * [Keepass Password Manager](http://keepass.info/)
+* [GoogleDrive](https://drive.google.com/drive/)
+	* VoiceTyping ([Link1](http://www.pcworld.com/article/3038200/data-center-cloud/how-to-use-voice-dictation-in-google-docs.html), [Link2](http://www.makeuseof.com/tag/voice-typing-new-best-feature-google-docs/))
 
 ## Statistik
 
