@@ -9,8 +9,15 @@
 * [Autohotkey](https://autohotkey.com/)
 * [Kahoot](https://kahoot.it/)
 * [Keepass Password Manager](http://keepass.info/)
+	* [Favicon Downloader](https://sourceforge.net/projects/keepass-favicon/)
+	* [ChromeIPass](http://keepass.info/plugins.html#chromeipass)
+	* [KeeFox](http://keefox.org/)
 * [GoogleDrive](https://drive.google.com/drive/)
 	* VoiceTyping ([Link1](http://www.pcworld.com/article/3038200/data-center-cloud/how-to-use-voice-dictation-in-google-docs.html), [Link2](http://www.makeuseof.com/tag/voice-typing-new-best-feature-google-docs/))
+* ChromePlugins
+	* [DeadMouse](https://chrome.google.com/webstore/detail/deadmouse/kioijmpindokaaahaeigkkkbogccljhm)
+* [Camtasia](https://www.techsmith.de/camtasia.html)
+
 
 ## Statistik
 
@@ -33,6 +40,20 @@
 * [RMarkdown](http://rmarkdown.rstudio.com/)
 * [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
+
+### Literaturrecherche
+
+* Datenbanken
+	* [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). **ERIC!** mit auswählen.
+	* [GoogleScholar](https://scholar.google.de/)
+	* [Web of Knowledge](https://apps.webofknowledge.com/)
+	* [Fachportal Pädagogik](http://www.fachportal-paedagogik.de/)
+	* [Katalog Uni Freiburg](https://katalog.ub.uni-freiburg.de/opac/)
+* [Deutscher Bildungsserver](http://www.bildungsserver.de/)
+* [Google Books](https://books.google.de/)
+* [Google Power Suche](https://supple.com.au/tools/google-advanced-search-operators/)
+* [Mendeley](https://www.mendeley.com/)
+	* [Word Plugin](http://support.mendeley.com/customer/en/portal/articles/168756-installing-and-using-the-word-plugin-in-windows)
 
 ## MOOCs
 
