@@ -67,3 +67,7 @@
 * [Git Code School](https://www.codeschool.com/learn/git)
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
 * [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite-SP/SelfPaced/about)
+
+## Miscellaneous
+
+* [Butterick's Practical Typography](http://practicaltypography.com/)
