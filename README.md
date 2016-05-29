@@ -42,6 +42,18 @@
 * [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
 
+### Datenvisualisierung
+
+* "Get in right in black and white"
+* [Graph Selection Matrix](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)
+* [Selecting the right graph for your message](http://www.perceptualedge.com/articles/ie/the_right_graph.pdf)
+* [Practical Rules for Using Colors in Charts](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
+* [ColorBrewer](http://colorbrewer2.org/)
+* [Why rainbow colors aren’t the best option for data visualizations](http://www.poynter.org/2013/why-rainbow-colors-arent-always-the-best-options-for-data-visualizations/224413/)
+* [Adobe Color](https://color.adobe.com/create/color-wheel)
+* [Gestalt Laws of Perception](http://www.slideshare.net/luisaepv/the-gestalt-laws-of-perception)
+* [Data Ink Ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio)
+
 ### Literaturrecherche
 
 * Datenbanken
