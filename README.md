@@ -26,6 +26,7 @@
 * [Erklärte Varianz](https://assessingpsyche.wordpress.com/2014/07/10/two-visualizations-for-explaining-variance-explained/)
 * [Cross Validated](http://stats.stackexchange.com/)
 * [Data Science Skills Checklist](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/UdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf)
+* [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
 ### R
 
