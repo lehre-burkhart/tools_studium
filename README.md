@@ -42,15 +42,13 @@
 * [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
 
-<<<<<<< HEAD
+
 ### Datasets
 
 * [DataShop](https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Coursera Forumsbeiträge](https://github.com/elleros/courseraforums)
 
-## Literaturrecherche
-=======
 ### Datenvisualisierung
 
 * "Get in right in black and white"
@@ -63,8 +61,7 @@
 * [Gestalt Laws of Perception](http://www.slideshare.net/luisaepv/the-gestalt-laws-of-perception)
 * [Data Ink Ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio)
 
-### Literaturrecherche
->>>>>>> origin/master
+## Literaturrecherche
 
 * Datenbanken
 	* [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). **ERIC!** mit auswählen.
