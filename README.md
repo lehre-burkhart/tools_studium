@@ -26,6 +26,7 @@
 * [Erklärte Varianz](https://assessingpsyche.wordpress.com/2014/07/10/two-visualizations-for-explaining-variance-explained/)
 * [Cross Validated](http://stats.stackexchange.com/)
 * [Data Science Skills Checklist](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/UdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf)
+* [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
 ### R
 
@@ -41,6 +42,7 @@
 * [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
 
+<<<<<<< HEAD
 ### Datasets
 
 * [DataShop](https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public)
@@ -48,6 +50,21 @@
 * [Coursera Forumsbeiträge](https://github.com/elleros/courseraforums)
 
 ## Literaturrecherche
+=======
+### Datenvisualisierung
+
+* "Get in right in black and white"
+* [Graph Selection Matrix](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)
+* [Selecting the right graph for your message](http://www.perceptualedge.com/articles/ie/the_right_graph.pdf)
+* [Practical Rules for Using Colors in Charts](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
+* [ColorBrewer](http://colorbrewer2.org/)
+* [Why rainbow colors aren’t the best option for data visualizations](http://www.poynter.org/2013/why-rainbow-colors-arent-always-the-best-options-for-data-visualizations/224413/)
+* [Adobe Color](https://color.adobe.com/create/color-wheel)
+* [Gestalt Laws of Perception](http://www.slideshare.net/luisaepv/the-gestalt-laws-of-perception)
+* [Data Ink Ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio)
+
+### Literaturrecherche
+>>>>>>> origin/master
 
 * Datenbanken
 	* [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). **ERIC!** mit auswählen.
