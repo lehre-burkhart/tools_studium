@@ -1,4 +1,4 @@
-# Tools für das Studium der Bildungswissenschaft (B.A. / M.A.)
+# Tools für das Studium 
 
 ## Softwares
 
