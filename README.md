@@ -42,6 +42,13 @@
 * [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
 
+
+### Datasets
+
+* [DataShop](https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Coursera Forumsbeiträge](https://github.com/elleros/courseraforums)
+
 ### Datenvisualisierung
 
 * "Get in right in black and white"
@@ -54,7 +61,7 @@
 * [Gestalt Laws of Perception](http://www.slideshare.net/luisaepv/the-gestalt-laws-of-perception)
 * [Data Ink Ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio)
 
-### Literaturrecherche
+## Literaturrecherche
 
 * Datenbanken
 	* [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). **ERIC!** mit auswählen.
@@ -67,6 +74,7 @@
 * [Google Power Suche](https://supple.com.au/tools/google-advanced-search-operators/)
 * [Mendeley](https://www.mendeley.com/)
 	* [Word Plugin](http://support.mendeley.com/customer/en/portal/articles/168756-installing-and-using-the-word-plugin-in-windows)
+* [ScienceDirect](http://www.sciencedirect.com/)
 
 ## MOOCs
 
