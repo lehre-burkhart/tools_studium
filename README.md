@@ -61,6 +61,16 @@
 * [Gestalt Laws of Perception](http://www.slideshare.net/luisaepv/the-gestalt-laws-of-perception)
 * [Data Ink Ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio)
 
+## E-Learning
+
+* [The Ideal Design Workflow](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.w7woyayec)
+* [Getting Started with Wireframes](https://blog.prototypr.io/getting-started-with-wireframes-8aff9b92a4c0#.ibrx38kfk)
+
+### Videos
+
+* [Sebastian Thrun on Charlie Rose](https://charlierose.com/videos/23355)
+* [Tony Fadell at Udacity Talks](https://www.youtube.com/watch?v=6W_Usn7vJdg)
+
 ## Literaturrecherche
 
 * Datenbanken
@@ -92,3 +102,5 @@
 ## Miscellaneous
 
 * [Butterick's Practical Typography](http://practicaltypography.com/)
+* [Random Group Generator](http://www.aschool.us/random/random-pair.php)
+* [Visible Thinking](http://www.visiblethinkingpz.org/VisibleThinking_html_files/01_VisibleThinkingInAction/01a_VTInAction.html)
