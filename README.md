@@ -42,6 +42,7 @@
 * [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
 * [Designing Projects](http://nicercode.github.io/blog/2013-04-05-projects/)
+* [Cookbook R](http://www.cookbook-r.com/)
 
 
 ### Datasets
