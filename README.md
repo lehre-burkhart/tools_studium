@@ -1,6 +1,6 @@
 # Tools für das Studium 
 
-## Softwares
+## Softwares für das Studium
 
 * Git
 	* [GitBook](https://www.gitbook.com/)
@@ -16,7 +16,6 @@
 	* VoiceTyping ([Link1](http://www.pcworld.com/article/3038200/data-center-cloud/how-to-use-voice-dictation-in-google-docs.html), [Link2](http://www.makeuseof.com/tag/voice-typing-new-best-feature-google-docs/))
 * ChromePlugins
 	* [DeadMouse](https://chrome.google.com/webstore/detail/deadmouse/kioijmpindokaaahaeigkkkbogccljhm)
-* [Camtasia](https://www.techsmith.de/camtasia.html)
 
 
 ## Statistik
@@ -28,18 +27,25 @@
 * [Data Science Skills Checklist](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/UdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf)
 * [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
+### Auswahl statistischer Modelle
+
+* [Datenanalyse Universität Zürich](http://www.methodenberatung.uzh.ch/datenanalyse.html)
+* [How to chosse a statistical model?](http://api.ning.com/files/-HoKvkav3syGev9UUuehVmw8fStUH67zG-JEkMgb8ETfOrXSmIY-zvoRagfARSr5jTs7N4XEYjDazFCR6VDlJtum21HubaOB/StatisticalmodelinfographicVer31Aureus.jpg)
+* [What statistical analysis should I use?](http://www.ats.ucla.edu/stat/stata/whatstat/whatstat.htm)
+* [Which statistical model should you use?](https://help.xlstat.com/customer/en/portal/articles/2062461)
+
 ### R
 
 * Packete
 	* [dplyr](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 	* [ggplot2 Documentation](http://docs.ggplot2.org/current/)
 * [R-Studio](https://www.rstudio.com/)
-* [Referenz Statistik](http://www.statmethods.net/)
+* [Statmethods](http://www.statmethods.net/)
 * [R Styleguide von Hadley Wickam](http://adv-r.had.co.nz/Style.html)
 * [R-Bloggers](http://www.r-bloggers.com/)
 * [DataCamp](https://www.datacamp.com/)
 * [RMarkdown](http://rmarkdown.rstudio.com/)
-* [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
+* [Cheat Sheet R-Studio](https://www.rstudio.com/resources/cheatsheets/)
 * [Advanced R](http://adv-r.had.co.nz/)
 * [Designing Projects](http://nicercode.github.io/blog/2013-04-05-projects/)
 * [Cookbook R](http://www.cookbook-r.com/)
@@ -68,11 +74,6 @@
 * [The Ideal Design Workflow](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.w7woyayec)
 * [Getting Started with Wireframes](https://blog.prototypr.io/getting-started-with-wireframes-8aff9b92a4c0#.ibrx38kfk)
 
-### Videos
-
-* [Sebastian Thrun on Charlie Rose](https://charlierose.com/videos/23355)
-* [Tony Fadell at Udacity Talks](https://www.youtube.com/watch?v=6W_Usn7vJdg)
-
 ## Literaturrecherche
 
 * Datenbanken
@@ -90,8 +91,6 @@
 
 ## MOOCs
 
-* [6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)
-* [15.071x The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
 * [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 * [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 * [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
