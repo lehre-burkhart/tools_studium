@@ -68,6 +68,7 @@
 * [Adobe Color](https://color.adobe.com/create/color-wheel)
 * [Gestalt Laws of Perception](http://www.slideshare.net/luisaepv/the-gestalt-laws-of-perception)
 * [Data Ink Ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio)
+* [Colours of Maximum Contrast](https://medium.com/@rjurney/kellys-22-colours-of-maximum-contrast-58edb70c90d1#.pbkzxtbz6)
 
 ## E-Learning
 
