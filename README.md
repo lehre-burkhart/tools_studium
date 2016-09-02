@@ -89,6 +89,10 @@
 	* [Word Plugin](http://support.mendeley.com/customer/en/portal/articles/168756-installing-and-using-the-word-plugin-in-windows)
 * [ScienceDirect](http://www.sciencedirect.com/)
 
+## APA
+
+* [APA FAQs](http://www.apastyle.org/learn/faqs/index.aspx)
+
 ## MOOCs
 
 * [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
